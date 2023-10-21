@@ -3,6 +3,7 @@
 ### Table of contents:
 ● [Python](#Python) </br>
 ● [SQL](#SQL) </br>
+● [Microsoft Excel](#Microsoft Excel) </br>
 ● [Dashboard](#Dashboard) 
 
 <a name="Python"></a>
@@ -15,10 +16,10 @@
 ### 📁 SQL
 | Accessible Link | Associated | Zone | Tools | Descriptions |
 | --------------- | ---------- | ---- | ------- | ------------ |
-| 🛒 [Sales Performance](https://github.com/salsabilarani/VIX-Big-Data-Analytics-Kimia-Farma)| Kimia Farma x Rakamin Academy |  **Data Mart**, **Data Analysis** | SQL Workbench, Tableau | - |
+| 🛒 [Sales Performance](https://github.com/salsabilarani/VIX-Big-Data-Analytics-Kimia-Farma)| Kimia Farma x Rakamin Academy |  **Data Mart**, **Data Analysis** | SQL Workbench | - |
 
 <a name="Dashboard"></a>
 ### 📁 Dashboard
-| Accessible Link | Associated | Tools | Descriptions |
-| --------------- | ---------- | ------- | ------------ |
-| [Sales Report](https://s.id/KimFar-Sales-Dashboard-Report) | Kimia Farma x Rakamin Academy | **Data Visualization**, **Business Intelligence Analyst** | Looker Data Studio | - |
+| Accessible Link | Associated | Zone | Tools | Descriptions |
+| --------------- | ---------- | ------- | ------------ | ------------ |
+| 🛒[Sales Report](https://s.id/KimFar-Sales-Dashboard-Report) | Kimia Farma x Rakamin Academy | **Data Visualization**, **Business Intelligence Analyst** | Looker Data Studio | - |
