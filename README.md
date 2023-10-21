@@ -13,12 +13,12 @@
 
 <a name="SQL"></a>
 ### 📁 SQL
-| Accessible Link | Associated | Zone | Library | Descriptions |
+| Accessible Link | Associated | Zone | Tools | Descriptions |
 | --------------- | ---------- | ---- | ------- | ------------ |
-| 🛒 [Sales Performance](https://github.com/salsabilarani/VIX-Big-Data-Analytics-Kimia-Farma)| Kimia Farma x Rakamin Academy |  **Data Mart** | - | - |
+| 🛒 [Sales Performance](https://github.com/salsabilarani/VIX-Big-Data-Analytics-Kimia-Farma)| Kimia Farma x Rakamin Academy |  **Data Mart**, **Data Analysis** | SQL Workbench, Tableau | - |
 
 <a name="Dashboard"></a>
 ### 📁 Dashboard
-| Accessible Link | Associated | Zone | Library | Descriptions |
-| --------------- | ---------- | ---- | ------- | ------------ |
-| - | - | - | - | - |
+| Accessible Link | Associated | Tools | Descriptions |
+| --------------- | ---------- | ------- | ------------ |
+| [Sales Report](https://s.id/KimFar-Sales-Dashboard-Report) | Kimia Farma x Rakamin Academy | **Data Visualization**, **Business Intelligence Analyst** | Looker Data Studio | - |
