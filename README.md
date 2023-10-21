@@ -3,7 +3,7 @@
 ### Table of contents:
 ● [Python](#Python) </br>
 ● [SQL](#SQL) </br>
-● [Microsoft Excel](#Microsoft Excel) </br>
+● [Ms. Excel/Spreadsheet](#Ms. Excel/Spreadsheet) </br>
 ● [Dashboard](#Dashboard) 
 
 <a name="Python"></a>
@@ -17,6 +17,9 @@
 | Accessible Link | Associated | Zone | Tools | Descriptions |
 | --------------- | ---------- | ---- | ------- | ------------ |
 | 🛒 [Sales Performance](https://github.com/salsabilarani/VIX-Big-Data-Analytics-Kimia-Farma)| Kimia Farma x Rakamin Academy |  **Data Mart**, **Data Analysis** | SQL Workbench | - |
+
+<a name="Ms. Excel/Spreadsheet"></a>
+### 📁 Ms. Excel/Spreadsheet
 
 <a name="Dashboard"></a>
 ### 📁 Dashboard
