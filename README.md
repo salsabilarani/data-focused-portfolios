@@ -27,4 +27,4 @@
 | Accessible Link | Associated | Zone | Tools | Descriptions |
 | --------------- | ---------- | ------- | ------------ | ------------ |
 | 🛒[Sales Report](https://s.id/KimFar-Sales-Dashboard-Report) | Kimia Farma x Rakamin Academy | **Data Visualization**, **Business Intelligence Analyst** | Looker Data Studio | - |
-| 🛒[Sales Report](https://github.com/salsabilarani/VIX-BI-Analyst-Bank-Muamalat/blob/main/Sales%20Report%20Dashboard.pdf)) | Bank Muamalat x Rakamin Academy | **Data Visualization**, **Business Intelligence Analyst** | Looker Data Studio | - |
+| 🛒[Sales Report](https://github.com/salsabilarani/VIX-BI-Analyst-Bank-Muamalat/blob/main/Sales%20Report%20Dashboard.pdf) | Bank Muamalat x Rakamin Academy | **Data Visualization**, **Business Intelligence Analyst** | Looker Data Studio | - |
