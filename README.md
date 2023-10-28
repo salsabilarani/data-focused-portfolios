@@ -17,6 +17,7 @@
 | Accessible Link | Associated | Zone | Tools | Descriptions |
 | --------------- | ---------- | ---- | ------- | ------------ |
 | 🛒 [Sales Performance](https://github.com/salsabilarani/VIX-Big-Data-Analytics-Kimia-Farma)| Kimia Farma x Rakamin Academy |  **Data Mart**, **Data Analysis** | SQL Workbench | - |
+| 🛒 [Sales Performance](https://github.com/salsabilarani/VIX-BI-Analyst-Bank-Muamalat)| Bank Muamalat x Rakamin Academy |  **Master Table**, **Data Analysis** | SQL Workbench | - |
 
 <a name="Ms.Excel/Spreadsheet"></a>
 ### 📁 Ms. Excel/Spreadsheet
@@ -26,3 +27,4 @@
 | Accessible Link | Associated | Zone | Tools | Descriptions |
 | --------------- | ---------- | ------- | ------------ | ------------ |
 | 🛒[Sales Report](https://s.id/KimFar-Sales-Dashboard-Report) | Kimia Farma x Rakamin Academy | **Data Visualization**, **Business Intelligence Analyst** | Looker Data Studio | - |
+| 🛒[Sales Report]([https://s.id/KimFar-Sales-Dashboard-Report](https://github.com/salsabilarani/VIX-BI-Analyst-Bank-Muamalat/blob/main/Sales%20Report%20Dashboard.pdf)) | Bank Muamalat x Rakamin Academy | **Data Visualization**, **Business Intelligence Analyst** | Looker Data Studio | - |
