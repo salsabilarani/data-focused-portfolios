@@ -21,6 +21,12 @@
 
 <a name="Ms.Excel/Spreadsheet"></a>
 ### 📁 Ms. Excel/Spreadsheet
+| Accessible Link | Associated | Zone | Tools | Descriptions |
+| --------------- | ---------- | ------- | ------------ | ------------ |
+| 🛒[Sales Report](https://docs.google.com/spreadsheets/d/18LUDqxbUiV8PHJiLuHsJfkIiLfTqT8xC/edit?usp=drive_link&ouid=105727486390766932319&rtpof=true&sd=true) | Digital Skola | **Data Visualization**, **Data Analyst** | Pivot Table | - |
+| 🛒[Customer & Sales Report](https://docs.google.com/spreadsheets/d/1BLdWOn0WGHHxMHKjRUh7rk0hrt2ves_k/edit?usp=drive_link&ouid=105727486390766932319&rtpof=true&sd=true) | Digital Skola | **Data Visualization**, **Data Analyst** | Postgre, Dbeaver, (Pivot Table Ms. Excel) | - |
+
+
 
 <a name="Dashboard"></a>
 ### 📁 Dashboard
